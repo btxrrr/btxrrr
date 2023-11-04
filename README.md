@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on beginner-friendly projects
-- 📫 email: bernicetanxr@gmail.com
+
 
 <!---
 btxrrr/btxrrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
