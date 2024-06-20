@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @btxrrr
+- 👋 Hi, I’m Bernice 陈宣融
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on beginner-friendly projects
